@@ -1,0 +1,27 @@
+.medico-container {
+    padding: 20px;
+    background-color: #e6f7ff;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    color: #0077b6;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    background-color: #fff;
+    border: 1px solid #0077b6;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+  
+  ul li span {
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,27 @@
+.paciente-container {
+    padding: 20px;
+    background-color: #f7f9fc;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    color: #007f5f;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    background-color: #fff;
+    border: 1px solid #007f5f;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+  
+  ul li span {
+    font-weight: bold;
+  }
+  

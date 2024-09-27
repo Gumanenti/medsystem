@@ -1,0 +1,5 @@
+[
+    { "id": 1, "nome": "Admin", "email": "admin@gmail.com", "password": "admin123", "role": "admin" },
+    { "id": 2, "nome": "Dr. João", "email": "joao@hospital.com", "password": "medico123", "role": "medico" },
+    { "id": 3, "nome": "Maria", "email": "maria@gmail.com", "password": "paciente123", "role": "paciente" }
+]

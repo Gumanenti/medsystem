@@ -1,0 +1,28 @@
+.footer-container {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
+  .footer-nav {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .footer-nav li a {
+    color: rgb(30, 22, 105);
+    text-decoration: none;
+    background-color: #333;
+  }
+  
+  .footer-nav li a:hover {
+    text-decoration: underline;
+    
+  }
+  
